@@ -1,5 +1,5 @@
-//Gracia Anggreini Fitaloka Hutagaol - 12S25001
-//Rafael Dietrich Z Simatupang - 12S25006
+//Gracia Anggreini Fitaloka Hutagaol-12S250001
+//Rafael Dietrich Z Simatupang-12S25006 
 import java.util.*;
 import java.lang.Math;
 
