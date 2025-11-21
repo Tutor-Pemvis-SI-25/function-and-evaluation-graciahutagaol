@@ -165,8 +165,3 @@ public class TLAST {
         return String.format("%." + digits + "f", value);
     }
 }
-        
-        return hasil;
-    }
-}
-
